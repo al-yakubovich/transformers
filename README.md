@@ -664,7 +664,7 @@ for batch in train_data:
 
 ## Citation
 
-We now have a paper you can cite for the 🤗 Transformers library:
+We now have a paper you can cite for the 🤗 Transformers library
 ```
 @article{Wolf2019HuggingFacesTS,
   title={HuggingFace's Transformers: State-of-the-art Natural Language Processing},
